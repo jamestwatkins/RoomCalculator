@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Bootcamp\RoomCalc\bin\Debug\netcoreapp2.1\RoomCalc.deps.json
+C:\Users\James\Desktop\Bootcamp\RoomCalc\bin\Debug\netcoreapp2.1\RoomCalc.runtimeconfig.json
+C:\Users\James\Desktop\Bootcamp\RoomCalc\bin\Debug\netcoreapp2.1\RoomCalc.runtimeconfig.dev.json
+C:\Users\James\Desktop\Bootcamp\RoomCalc\bin\Debug\netcoreapp2.1\RoomCalc.dll
+C:\Users\James\Desktop\Bootcamp\RoomCalc\bin\Debug\netcoreapp2.1\RoomCalc.pdb
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.AssemblyInfo.cs
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.dll
+C:\Users\James\Desktop\Bootcamp\RoomCalc\obj\Debug\netcoreapp2.1\RoomCalc.pdb
